@@ -1,11 +1,13 @@
 # Hello and welcome to my Github page
 
-It is still under maintenance so that I can make a more good-looking website. Hence, I invite you to take a look at some of my social networks/projects.
+It is still under maintenance so that I can make a more good-looking website. Therefore, I invite you to take a look at some of my social networks/projects.
 
 ### Social networks
 
-- <a href="">LinkedIn</a>
-- <a href="">Github</a>
+- <a href="https://www.linkedin.com/in/gaetan-le-floch/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/GaetanLF" target="_blank">Github</a>
 
-### Publications (french)
+### Publications (in french)
 
+- <b>GUEGUEN, Chantal et LE FLOCH, Gaëtan (2019, October 24th)</b>. Brexit : rien ne sert de courir... . Ouest-France, no. 22904, p.4. <a href="https://www.ouest-france.fr/europe/grande-bretagne/brexit/point-de-vue-brexit-rien-ne-sert-de-courir-6563013" target="_blank">[Available online]</a>.
+- <b>LE FLOCH, Gaëtan (2019)</b>. Brexit et échanges commerciaux : le risque britannique. In: Centre de Recherches en Economie et Management's website. <a href="https://crem.univ-rennes1.fr/actualites/brexit-et-echanges-commerciaux-le-risque-britannique" target="_blank">[Available online]</a>.
