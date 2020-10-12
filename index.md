@@ -1,16 +1,4 @@
-!DOCTYPE html>
-<html>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Gaëtan LE FLOCH</title>
-  </head>
-
-  <body>
 
     Bonjour,
 
@@ -22,5 +10,4 @@
 
     This Github page is currently under maintenance. Do not hesitate to go back on my LinkedIn page : https://www.linkedin.com/in/gaetan-le-floch/
 
-  </body>
-</html>
+
