@@ -1,6 +1,6 @@
 # Hello and welcome to my Github page
 
-It is still under maintenance so that I can make a more good-looking website. Therefore, I invite you to take a look at some of my social networks/projects.
+This website is still under maintenance so that I can make it more good-looking. Therefore, I invite you to take a look at some of my social networks/projects.
 
 ### Social networks
 
