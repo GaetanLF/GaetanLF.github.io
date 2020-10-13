@@ -1,6 +1,6 @@
 # Hello and welcome to my Github page
 
-This website is still under maintenance so that I can make it more good-looking ; the new version will not be available nlater than November 1st. Therefore, I invite you to take a look at some other links for the moment.
+This website is still under maintenance so that I can make it more good-looking ; the new version will soon be available (no later than November 1st). Therefore, I invite you to take a look at some other links for the moment.
 
 ### Social networks
 
