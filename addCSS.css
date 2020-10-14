@@ -2,11 +2,15 @@
 	font-family: 'OpenSansEB';
 	src: url('OpenSans-ExtraBold.ttf');
 }
+@font-face {
+	font-family: 'OpenSans';
+	src: url('OpenSans.ttf');
+}
 h1,h2{
 	font-family: "OpenSansEB", sans-serif;
 }
 h3,h4,h5,p {
-	font-family: "Arial", sans-serif;
+	font-family: "OpenSans", sans-serif;
 }
 .alinea {
 	text-indent:10px;
