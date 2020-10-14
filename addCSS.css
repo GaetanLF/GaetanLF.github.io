@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'OpenSansEB';
+	src: url('OpenSans-ExtraBold.ttf');
+}
+h1,h2{
+	font-family: "OpenSansEB", sans-serif;
+}
+h3,h4,h5,p {
+	font-family: "Arial", sans-serif;
+}
+.alinea {
+	text-indent:10px;
+}
+.navbar-brand{
+	color: grey;
+}
+.vide{
+	height:70px;
+}
