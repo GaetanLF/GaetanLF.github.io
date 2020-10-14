@@ -9,8 +9,8 @@
 h1,h2{
 	font-family: "OpenSansEB", sans-serif;
 }
-h3,h4,h5,p {
-	font-family: "OpenSans","Comic sans MS", sans-serif;
+.OS {
+	font-family: "OpenSans", sans-serif;
 }
 .alinea {
 	text-indent:10px;
