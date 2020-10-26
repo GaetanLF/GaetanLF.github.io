@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'OpenSansEB';
+	src: url('OpenSans-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'OpenSans';
+	src: url('OpenSans.ttf');
+}
+h1,h2{
+	font-family: "OpenSansEB", sans-serif;
+}
+
+h3,h4,h5,p {
+	font-family: "OpenSans", sans-serif;
+}
+.alinea {
+	text-indent:10px;
+}
+.navbar-brand{
+	color: grey;
+}
+.vide{
+	height:70px;
+}
+.grow {
+	transition: all .5s ease-in-out;
+}
+.grow:hover{
+	transform: scale(1.05);
+}
+.fast-grow {
+transition: all .3s ease-in-out;
+}
+.fast-grow:hover{
+	transform: scale(1.1);
+}
+.page-footer {
+	background-color: grey;
+}
+.card-title{
+	color: black;
+}
+.standard-height{
+	background-color: #cce3fc;
+	height:500px;
+}
+body{
+	background-color: grey;
+}
+.blank{
+	height:10px;
+}
