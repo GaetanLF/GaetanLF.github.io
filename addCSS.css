@@ -61,3 +61,7 @@ body{
 	font-size: 18px;
 	font-family: "OpenSans", sans-serif ;
 }
+.row {
+  display: flex;
+  align-items: center;
+}
